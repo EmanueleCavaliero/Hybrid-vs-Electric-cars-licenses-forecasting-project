@@ -15,4 +15,6 @@ The study focuses on quarterly registration data, evaluating how different model
 * **Primary Series:** Quarterly new licenses for electric and hybrid vehicles in the UK.
 * **Exogenous Drivers:** Bank of England interest rates and GBP exchange rates.
 * **Methodology:** Time series stationarity testing (ADF, KPSS), model selection via AIC/BIC, and out-of-sample performance evaluation using MAE and RMSE.
-or the Business, Economic and Financial Data (BEFD) course - University of Padua.*
+
+
+-Business, Economic and Financial Data (BEFD) course - University of Padua.*
